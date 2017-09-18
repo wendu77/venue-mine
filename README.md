@@ -5,6 +5,6 @@ Venue Mine is a simple app that queries the Foursquare API for nearby venues bas
 React, Redux, Webpack, Babel, ES6, Foursquare API
 
 ## Live Demo
-<strong>LINK</strong>:
+<strong>LINK</strong>: http://chinwenduopara.com/venue-mine/
 
 ![venue-mine](https://user-images.githubusercontent.com/24254780/30516104-357f1928-9b03-11e7-8c4e-92faf1e7410d.gif)
